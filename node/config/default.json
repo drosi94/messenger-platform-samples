@@ -1,6 +1,6 @@
 {
     "appSecret": "",
     "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "validationToken": "WEBHOOK_FOR_UNI_HUB",
+    "serverURL": "https://unihub-messenger-bot.herokuapp.com"
 }
